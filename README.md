@@ -5,7 +5,7 @@
 * VueParticles：粒子特效
 * Vue2 + Vuex + Vue Router + Element UI + ES6 + webpack + axios + Node.js
 
-[后端传送](https://github.com/scrpio/mall)
+[后端传送](https://github.com/scrpio/springboot-master)
 
 ## 截图预览
 
